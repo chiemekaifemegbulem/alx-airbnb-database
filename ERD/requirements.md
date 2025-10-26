@@ -1,3 +1,5 @@
+[ER Diagram](https://github.com/chiemekaifemegbulem/alx-airbnb-database/blob/main/ERD/ERD_Diagram.png)
+
 # ER Diagram Requirements
 
 
